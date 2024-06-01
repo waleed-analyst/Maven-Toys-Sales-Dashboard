@@ -9,7 +9,6 @@ This repository contains the Power BI dashboard created for Maven Toys, a fictit
 
 - [Dataset](#Dataset)
 - [Data Model](#data-model)
-- [Visualizations](#visualizations)
 - [Project Overview](#Project-Overview)
 - [Creation process](#Creation-process)
 - [Questions](#Questions)
